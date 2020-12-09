@@ -1,6 +1,6 @@
 # Yellow Lab Tools Docker Image
 
-[Yellow Lab Tools](https://github.com/gmetais/YellowLabTools) is an open source project by [Gaël Métais](http://www.gaelmetais.com/). 
+[Yellow Lab Tools](https://github.com/YellowLabTools/YellowLabTools) is an open source project by [Gaël Métais](http://www.gaelmetais.com/). 
 It lets you test a webpage (via an URL) and detects performance and front-end code quality issues.
 
 Yellow Lab Tools Docker is a node:0.12.10 (Jessie) Docker image that provides an isolated Yellow Lab Tools instance.
@@ -29,7 +29,7 @@ Then open [`http://localhost:8383/`](http://localhost:8383/) in your browser.
 ## Issues
 
 If you have any problems with or questions about this docker image, please contact me through a [GitHub issue](https://github.com/uhlhosting/docker-yellowlabtools/issues). 
-If the issue is related to YellowLabTools itself, please leave an issue on the [YellowLabTools official repository](https://github.com/gmetais/YellowLabTools).
+If the issue is related to YellowLabTools itself, please leave an issue on the [YellowLabTools official repository](https://github.com/YellowLabTools/YellowLabTools).
 
 
 ## Contributing
