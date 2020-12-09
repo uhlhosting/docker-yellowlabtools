@@ -24,7 +24,7 @@ Then open [`http://localhost:8383/`](http://localhost:8383/) in your browser.
 
 ## Supported tags
 
-* [`1.13.3`](https://github.com/uhlhosting/docker-yellowlabtools/blob/master/Dockerfile) 
+* [`1.13.4`](https://github.com/uhlhosting/docker-yellowlabtools/blob/master/Dockerfile) 
 
 ## Issues
 
