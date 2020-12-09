@@ -1,7 +1,7 @@
 FROM    node:12.13.1
 
-# last commit=v1.13.3
-ENV     VERSION=v1.13.3
+# last commit=v1.13.4
+ENV     VERSION=v1.13.4
 
 WORKDIR /usr/src/ylt
 
